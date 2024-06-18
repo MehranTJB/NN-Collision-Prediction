@@ -1,0 +1,3 @@
+## Neural Network for Collision Prediction Project
+
+The purpose of this project is learn more about neural networks and their applications. More specifically, I wanted  to learn how to collect training data for a robotics task and, in turn, design a neural network that can process this data. In this project my goal is to help a small robot navigate a simulated environment without any collisions. To accomplish this, I need to train a neural network using backpropagation that predicts whether the robot is going to collide with any walls or objects in the next time step. 
